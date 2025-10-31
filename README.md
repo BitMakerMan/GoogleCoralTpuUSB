@@ -17,7 +17,7 @@ Scarica e installa il runtime Visual C++ più aggiornato utilizzando [questo lin
 ### 2. Scarica i driver Coral USB TPU
 
 Vai alla pagina delle release coral su GitHub:  
-https://github.com/google-coral/edgetpu/releases  
+[https://github.com/google-coral/edgetpu/releases  ](https://github.com/google-coral/libedgetpu/releases)
 Scarica la release più recente per **Windows** (`edgetpu_runtime_<version>_windows.zip`).
 
 ### 3. Installa i driver TPU
