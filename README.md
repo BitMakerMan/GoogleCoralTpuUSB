@@ -2,7 +2,7 @@
 
 Questa guida ti permette di installare la Google Coral USB Edge TPU su PC Windows, inclusi i driver necessari e le dipendenze fondamentali.
 
-- ([Link Ufiiciale:](https://gweb-coral-full.uc.r.appspot.com/docs/accelerator/get-started/#runtime-on-windows))
+- ([Link Ufficiale:](https://gweb-coral-full.uc.r.appspot.com/docs/accelerator/get-started/#runtime-on-windows))
 
 ## Requisiti
 
