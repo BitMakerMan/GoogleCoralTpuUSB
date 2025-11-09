@@ -174,5 +174,3 @@ Il cuore del progetto. È diviso in 4 sezioni logiche:
 
 ## 📜 Licenza
 Questo progetto è rilasciato sotto la Licenza MIT. Sei libero di usare, modificare e distribuire questo codice per qualsiasi scopo, accademico o commerciale.
-
-(Sentiti libero di aggiungere un file LICENSE con il testo della licenza MIT nel tuo repository)
