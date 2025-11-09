@@ -1,5 +1,5 @@
 # Progetto "Hello Coral" (Google Coral TPU USB)
-**Autore:** Craicek (BitMakerMan)
+**Autore:** Craicek
 
 Benvenuti in questo progetto accademico! L'obiettivo è fornire un'implementazione semplice, robusta e ampiamente documentata per eseguire il rilevamento di oggetti (Object Detection) in tempo reale utilizzando una Webcam e un acceleratore Google Coral TPU USB.
 
@@ -171,8 +171,8 @@ Il cuore del progetto. È diviso in 4 sezioni logiche:
 ## 🔗 Risorse e Link Ufficiali
 - **Repository GitHub:** https://github.com/BitMakerMan/GoogleCoralTpuUSB
 - **Sito Ufficiale Google Coral:** https://coral.ai/
-- **Modello Utilizzato:** MobileNet SSD v2 (COCO) (Link diretto dal setup.py)
-- **Etichette Utilizzate:** COCO Labels (Link diretto dal setup.py)
+- **Modello Utilizzato:** https://dl.google.com/coral/canned_models/mobilenet_ssd_v2_coco_quant_postprocess_edgetpu.tflite
+- **Etichette Utilizzate:** https://raw.githubusercontent.com/google-coral/test_data/master/coco_labels.txt
 - **Guida Ufficiale Installazione (Windows):** https://coral.ai/docs/accelerator/get-started/#windows
 
 ## 📜 Licenza
