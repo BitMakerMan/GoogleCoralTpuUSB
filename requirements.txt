@@ -1,0 +1,17 @@
+# Progetto Accademico "Hello Coral" - Dipendenze Python
+# Autore: Craicek
+#
+# Indica a pip di cercare anche nel repository speciale di Google Coral
+--extra-index-url https://google-coral.github.io/py-repo/
+
+# FORZA NUMPY ALLA VERSIONE 1.x (per compatibilità con pycoral)
+numpy<2
+
+# Libreria per la gestione della webcam e della visualizzazione
+opencv-python
+
+# Libreria principale per l'interazione con Google Coral TPU
+tflite-runtime
+
+# Libreria Python specifica per Coral TPU
+pycoral
