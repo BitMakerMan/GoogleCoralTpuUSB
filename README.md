@@ -26,9 +26,6 @@ Il testo in sovrimpressione (overlay) mostra:
 
 Grazie alla logica di correzione, i box verdi si adattano perfettamente agli oggetti, nonostante l'immagine venga "schiacciata" per l'analisi.
 
-(Suggerimento: Registra un breve video o GIF del programma in azione e inseriscilo qui!)
-![Demo del Progetto](link_alla_tua_demo.gif)
-
 ## 💡 Il Concetto Chiave: Il Problema del 300x300
 Questo è il cuore accademico del progetto.
 
